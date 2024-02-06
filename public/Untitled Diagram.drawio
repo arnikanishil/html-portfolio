@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T05:27:41.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qKZzWA8uM9gkd0HGmE1f" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T05:28:37.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UWccaInSgkDxbbHCMDOS" version="23.0.2" type="github">
   <diagram name="Page-1" id="RKuhGRr5_K3Bsfk2XeNm">
     <mxGraphModel dx="1588" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
           <mxGeometry x="380" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wXgiGkqOGTFS19LJ2bEK-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;u style=&quot;font-size: 17px;&quot;&gt;Electrical Contractor Scope of work:&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Supply and install 4 x panel, NEMA 4 or 4X, within 8 feet of utility meter&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Supply and install the 1/2 &quot; conduit or Rigid PVC or Liquid-Tite from panel to the utility meter&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Supply and coil 16in of 2 pair 18 AWG FT-4 wire. If using Rigid PVC 16in of 14 AWG grounding cable coiled in box&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Install and wire Bunge supplied Pulse counter, Milesight EM300-DI, in the panel&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Supply ethernet cable, and install and wire 2 x LoRaWAN Gateway module to the Bunge ethernet switch.&amp;nbsp;&lt;br style=&quot;font-size: 17px;&quot;&gt;Hardware installation location to be decided by Bunge.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Additional work as needed to complete the scope of work&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Follow all the safety standards and procedures set by Bunge for performing on-site work&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1195" width="920" height="230" as="geometry" />
+          <mxGeometry x="57" y="1195" width="920" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
